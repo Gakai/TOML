@@ -8,7 +8,7 @@ The easiest way to install it is to use [Package Control](http://wbond.net/subli
 ### Git
 Clone the repository in the Sublime Text `Packages` folder with the command
 
-	git clone https://github.com/Gakai/TOML
+	git clone https://github.com/Gakai/sublime_toml_highlighting
 
 ### Manual install
 Download the repository as a zip file. Unzip the content into a folder named `TOML`. Copy the folder into Sublime Text's `Packages` folder.
